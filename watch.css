@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    font-weight: Arial;
+    border:border-box;
+}
+.logo {
+    height: 65px; 
+    width: 224px;
+}
+
+.qna {
+    height: 10px;
+    width: 400px;
+    margin-left: 328px;
+    margin-top: 10px;
+    font-size: 29px;
+    color: red;
+}
+.navsearch {
+    display: flex;
+    margin-left: 1315px;
+    margin-bottom: 10px;
+    height: 45px;
+}
+.color {
+    color: white;
+    background-color:#1577dc;
+}
+.movietitle {
+    padding-left:18px;
+    padding-right: 71px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #1577dc;
+    height: 40px;
+    width: 1461px;
+    font-size: 35px;
+}
+.border:hover {
+    cursor: pointer;
+
+}
+.movies{
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box {
+    border: 2px solid black;
+    height: 265px;
+    width: 200px;
+}
+.boxing {
+    height: 265px;
+width: 200px;
+background-size: cover;
+}
+.loadmore {
+    text-align: center;
+    background-color: white;
+}
+
+.for {
+    background-color: #807f7f;
+}
+.cd :hover {
+    border: 1px solid rgba(255, 255, 0, 0.404);
+}
+.copy {
+    text-align: center;
+}
